@@ -18,9 +18,9 @@ function [ xbest, fbest, msg, wrn, neval, f_hist, estcrit,                      
 	   
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                              this_version = 'v 1.01'; % 6 XI 2018
+                              this_version = 'v 1.01'; % 26 IX 2019
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+ 
 %% BFO, a Brute-Force Optimizer
 %
 % A "Brute-Force Optimizer" (based on elementary refining grid search) 
