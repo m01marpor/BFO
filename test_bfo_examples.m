@@ -1,6 +1,6 @@
 %  BFO: test examples
 %
-%  Ph. Toint, M. Porcelli 15 I 2020. 
+%  Ph. Toint, M. Porcelli 15 I 2020.  
 %
 
 addpath ./test_problems
