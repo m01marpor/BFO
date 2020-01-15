@@ -11,3 +11,5 @@ fx  = 0;
 for iel = 1:nel
    fx = fx + fi{iel}( iel, x( eldom{ iel } ) );
 end
+
+
