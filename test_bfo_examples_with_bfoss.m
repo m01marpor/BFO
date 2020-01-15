@@ -1,7 +1,7 @@
 %  BFO&BFOSS: examples to use interpolation-based search steps also in
 %  combination with the exploitation of the partial separable structure
 %
-%  Ph. Toint, M. Porcelli 15 I 2020. 
+%  Ph. Toint, M. Porcelli 15 I 2020.  
 %
 
 addpath ./test_problems
