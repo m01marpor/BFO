@@ -81,12 +81,12 @@ computations with continuous and discrete variables", ACM Transactions on Mathem
 "A note on using performance and data profiles for training algorithms", ACM Transactions on Mathematical Software, 45:2 (2019), Article 20.](https://dl.acm.org/doi/10.1145/3310362)
 
 * [M. Porcelli and Ph. L. Toint,
-"Global and local information in structured derivative free
-optimization with BFO",arXiv:2001.04801, 2020.](https://arxiv.org/abs/2001.04801)
+Exploiting problem structure in derivative free optimization, ACM Transactions on Mathematical Software, 48:1 (2022), Article 6.]
+(https://doi.org/10.1145/3474054)
 
 ## Authors 
 
-[Margherita Porcelli](http://web.math.unifi.it/users/porcelli/) (University of Bologna, Italy) and [Philippe L. Toint](http://perso.fundp.ac.be/~phtoint/toint.html) (University of Namur, Belgium)
+[Margherita Porcelli](https://sites.google.com/view/margherita-porcelli/) (University of Bologna, Italy) and [Philippe L. Toint](http://perso.fundp.ac.be/~phtoint/toint.html) (University of Namur, Belgium)
 
 ## Contributors 
 
